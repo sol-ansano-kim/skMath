@@ -1,0 +1,2 @@
+# skMath
+Math utility library
